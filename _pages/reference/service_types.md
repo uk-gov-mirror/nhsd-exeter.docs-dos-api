@@ -84,3 +84,4 @@ summary: DoS Service Types
 |157  |Infection Hub|
 |158  |Ambulance Service Pathway|
 |159  |Primary Care Clinic|
+|160  |Care Transfer Hub|
